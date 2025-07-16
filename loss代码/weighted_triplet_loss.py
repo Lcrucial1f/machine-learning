@@ -46,6 +46,6 @@ def weighted_triplet_loss(self , image_feat,text_feat,margin = 0.2,gamma=2.0,max
 
     return (sum_cost_s + sum_cost_im) /2.0
     
-
+#结束
 
 
